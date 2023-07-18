@@ -1,8 +1,6 @@
 # Cooper Sanders Portfolio Project
+For my final project, I will be creating an online portfolio to showcase some of my work that I have done.
 
-This is a very basic starting point for your projects.
-
-As you find useful information, remember to add it to the [class-notes](https://github.com/USU-ITLS-x265-23-summer/class-repo).
 
 ## Extensions
 
