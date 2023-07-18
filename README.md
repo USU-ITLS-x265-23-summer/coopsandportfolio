@@ -1,6 +1,7 @@
 # Cooper Sanders Portfolio Project
 For my final project, I will be creating an online portfolio to showcase some of my work that I have done.
 
+My specifications for the project are listed [here](https://github.com/orgs/USU-ITLS-x265-23-summer/discussions/146).
 
 ## Extensions
 
