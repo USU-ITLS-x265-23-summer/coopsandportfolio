@@ -1,4 +1,4 @@
-# [ADD YOUR USER NAME HERE] Project
+# Cooper Sanders Portfolio Project
 
 This is a very basic starting point for your projects.
 
