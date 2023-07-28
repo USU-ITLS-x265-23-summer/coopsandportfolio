@@ -22,3 +22,10 @@ body {
     color: gray;
     font-size: 20px;
 }
+
+nav {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    color: darkgray;
+    font-size: 20px;
+}
