@@ -3,29 +3,34 @@ backgrond {
 }
 
 h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 20px;
-    color: darkgray;
+    font-family: 'Verdana';
+    color: #818589;
     font-size: 72 px;
 }
 
 h2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-left: 20px;
-    color: gray;
-    font-size: 48px;
+    font-family: 'Helvetica';
+    color: #E62500;
+    font-size: 52px;
+}
+
+h4 {
+    font-family: 'Helvetica';
+    color: #818589;
+    font-size: 20px;
 }
 
 body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans';
     margin-left: 20px;
-    color: gray;
+    color: black;
     font-size: 20px;
 }
 
 nav {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 5px;
-    color: darkgray;
+    font-family: 'Gill Sans';
+    background: lightgray;
+    padding: 20px;
+    color: white;
     font-size: 20px;
 }
