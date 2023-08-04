@@ -34,3 +34,20 @@ nav {
     color: white;
     font-size: 20px;
 }
+
+.homepageimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.homepagegallery{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+
+#gallery{
+    text-align: center;
+}
