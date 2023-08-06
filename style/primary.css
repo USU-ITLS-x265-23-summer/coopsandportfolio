@@ -1,17 +1,22 @@
-backgrond {
-    color: white;
+body{
+    background: #FCF6F5;
 }
 
 h1 {
     font-family: 'Verdana';
-    color: #818589;
+    color: #CC313D;
+    background: (255, 255, 255, .6);
     font-size: 72 px;
+    margin-bottom: 5px;
+    margin-left: 0px;
 }
 
 h2 {
     font-family: 'Helvetica';
-    color: #E62500;
+    color: #CC313D;
     font-size: 52px;
+    border: 1px;
+    border-color: white;
 }
 
 h4 {
@@ -29,36 +34,35 @@ body {
 
 nav {
     font-family: 'Gill Sans';
-    background: lightgray;
+    background: #DDD7D6;
     padding: 20px;
     color: white;
     font-size: 20px;
 }
 
 form{
-    width: 75vw;
-    min-width: 350px;
+    width: 400px;
 }
 
 label{
     display: block;
-}
-
-text{
-    width: 100px;
+    padding: 5px;
 }
 
 input[type="Submit"]{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
+    width: 100%;
     font-family: 'Gill Sans';
     font-size: 20px;
     color: white;
     border-color: white;
-    background-color: #E62500;
+    background-color: #CC313D;
     padding: 10px;
+}
+
+textarea{
+    width: 100%;
+    height: 100px;
 }
 
 .homepageimg{
