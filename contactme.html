@@ -16,11 +16,24 @@
         <h2>Let's get in touch!</h2>
         <p>Fill out the form below to ask me any questions, or set up a consultation meeting.</p>
         <form>
-            <textarea required="yes" placeholder="Name"></textarea>
-            <textarea required="yes" placeholder="Email"></textarea>
-            <textarea reauired="yes" placeholder="Phone Number"></textarea>
-            <textarea required="yes" placeholder="Message"></textarea>
-            <button>Send</button>
+            <label for="name">Enter your name:
+            <input id="name" name="name" required type="text" placeholder="John Doe"></label>
+            <label for="email">Enter your email:
+            <input id="email" name="email" required type="email" placeholder="johndoe@gmail.com"></label>
+            <label for="phonenumber">Enter your phone number:
+            <input id="phonenumber" name="phonenumber" required type="number" placeholder="1234567890"></label>
+            <textarea required="yes" placeholder="Type your message here..."></textarea>
+            <label for="responsepref">How would you like me to respond?
+            <select id="responsepref" name="responsepref" required>
+                <option value="">Select Option</option>
+                <option value="1">Email</option>
+                <option value="2">Phone Call</option>
+                <option value="3">Text</option>
+                <option value="4">No Preference</option>
+                <option value="5">Other - Preference indicated in message</option>
+            </select>
+            </label>
+            <input type="Submit" value="Submit"></input>
         </form>
         <p>You can expect a response in 2-3 business days.</p>
         <p>I look forward to working with you.</p>
