@@ -91,6 +91,8 @@ textarea{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 3px;
+    border: solid 3px #CC313D;
 }
 
 .homepagegallery{
